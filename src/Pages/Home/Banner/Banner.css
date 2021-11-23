@@ -1,0 +1,8 @@
+/* style={{backgroundImage: `url(${background})`,backgroundPosition:'center',backgroundRepeat:'no-repeat',backgroundSize:'cover'}} */
+
+.banner-style{
+    background-image: linear-gradient(to bottom,rgba(245, 246, 252, 0.25), rgba(18, 19, 20, 0.52)),url('../../../images/banner-bg.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
